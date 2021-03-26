@@ -1,1 +1,2 @@
 # SAS_project
+In our project, we are going to find the relationship between climatic variables and sulfur dioxide content in the air by constructing a regression analysis. There are 41 observations involved in analysis and we choose Temp, Man, Wind and Rain and Population as our predictor variables. The conclusion should be the list of cities that can minimize the human influence on sulfur dioxide content in the air.
